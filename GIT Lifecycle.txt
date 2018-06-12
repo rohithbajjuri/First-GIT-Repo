@@ -1,0 +1,5 @@
+GIT Lifecycle
+=============
+
+Remote Repository ---------------> Working copy ------------------------> Edit / Deete/ add some new files ----------------> Review my changes ------------> add changes to staging area -----------> will commit our changes 
+				  Clone repository
